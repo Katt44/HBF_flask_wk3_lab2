@@ -56,7 +56,7 @@ def show_madlib_form():
     else:
         return render_template('game.html')
 
-    
+# @app.route('/madlib')
 
 
 if __name__ == '__main__':
